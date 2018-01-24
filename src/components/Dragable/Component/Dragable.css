@@ -1,0 +1,13 @@
+.dragable{
+    margin-bottom: 13%;
+    padding-top: 20px;
+}
+.data{
+    border:1px dashed gray;
+    padding: 5%;
+    height: 95px;
+}
+.addElement{
+    padding-top: 21px;
+    padding-left: 61px;
+}
